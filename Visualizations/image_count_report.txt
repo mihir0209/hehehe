@@ -1,0 +1,2 @@
+Total images: 9216
+Filtered images (within grid): 9216
