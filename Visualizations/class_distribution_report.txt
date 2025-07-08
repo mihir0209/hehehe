@@ -1,0 +1,2 @@
+Class Distribution Analysis:
+The dataset shows a distribution of land cover classes. There is an imbalance, with some classes (e.g., Cropland) dominating, which may bias model training. Oversampling or weighting could be considered.
